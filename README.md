@@ -1,3 +1,7 @@
+## Mirror of [mikudaio's project on gitflic](https://gitflic.ru/project/mikudaio/lcp-remove). All credits to him.
+## Can be used to remove LCP DRM from .lcpdf files exported from Thorium Reader.
+## Useful now that archive.org is deprecating Digital Editions DRM.
+
 # LCP Removal Script
 
 ## Requirements
